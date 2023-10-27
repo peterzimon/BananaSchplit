@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "BananaSchplit-rescue")(type "Legacy")(uri "${KIPRJMOD}/BananaSchplit-rescue.lib")(options "")(descr ""))
+)
